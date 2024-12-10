@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93c78997.css",
+    "main.js": "/static/js/main.665223e0.js",
+    "static/js/453.0d8e3fd4.chunk.js": "/static/js/453.0d8e3fd4.chunk.js",
+    "static/media/The Quick South St.ttf": "/static/media/The Quick South St.3a901991c72f57294408.ttf",
+    "index.html": "/index.html",
+    "main.93c78997.css.map": "/static/css/main.93c78997.css.map",
+    "main.665223e0.js.map": "/static/js/main.665223e0.js.map",
+    "453.0d8e3fd4.chunk.js.map": "/static/js/453.0d8e3fd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93c78997.css",
+    "static/js/main.665223e0.js"
+  ]
+}
