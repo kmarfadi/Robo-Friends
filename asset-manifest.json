@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kmarfadi/Robo-Friends/static/css/main.e665d77a.css",
-    "main.js": "/kmarfadi/Robo-Friends/static/js/main.4b5622ca.js",
-    "static/js/453.0d8e3fd4.chunk.js": "/kmarfadi/Robo-Friends/static/js/453.0d8e3fd4.chunk.js",
-    "static/media/The Quick South St.ttf": "/kmarfadi/Robo-Friends/static/media/The Quick South St.3a901991c72f57294408.ttf",
-    "index.html": "/kmarfadi/Robo-Friends/index.html",
-    "main.e665d77a.css.map": "/kmarfadi/Robo-Friends/static/css/main.e665d77a.css.map",
-    "main.4b5622ca.js.map": "/kmarfadi/Robo-Friends/static/js/main.4b5622ca.js.map",
-    "453.0d8e3fd4.chunk.js.map": "/kmarfadi/Robo-Friends/static/js/453.0d8e3fd4.chunk.js.map"
+    "main.css": "/Robo-Friends/static/css/main.f08fce3c.css",
+    "main.js": "/Robo-Friends/static/js/main.9d9d61c4.js",
+    "static/js/453.0d8e3fd4.chunk.js": "/Robo-Friends/static/js/453.0d8e3fd4.chunk.js",
+    "static/media/The Quick South St.ttf": "/Robo-Friends/static/media/The Quick South St.3a901991c72f57294408.ttf",
+    "index.html": "/Robo-Friends/index.html",
+    "main.f08fce3c.css.map": "/Robo-Friends/static/css/main.f08fce3c.css.map",
+    "main.9d9d61c4.js.map": "/Robo-Friends/static/js/main.9d9d61c4.js.map",
+    "453.0d8e3fd4.chunk.js.map": "/Robo-Friends/static/js/453.0d8e3fd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e665d77a.css",
-    "static/js/main.4b5622ca.js"
+    "static/css/main.f08fce3c.css",
+    "static/js/main.9d9d61c4.js"
   ]
 }
