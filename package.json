@@ -27,6 +27,7 @@
       "react-app/jest"
     ]
   },
+  "proxy": "https://api.clarifai.com",
   "browserslist": {
     "production": [
       ">0.2%",
