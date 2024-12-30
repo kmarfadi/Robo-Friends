@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    height: 100vh; /* Full viewport height */
+    background: linear-gradient(-45deg, #1a1a1a, #292929, #0d0d0d, #3a3a3a); /* Dark gradients */
+    background-size: 400% 400%;
+    animation: gradientAnimation 15s ease infinite; /* Smooth animation */
+}
+
+/* Animation Keyframes */
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
